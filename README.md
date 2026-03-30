@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nabhya 👋
+🎓 B.Tech CSE Cloud Computing and Automation Student at 🏫 VIT Bhopal University
+📍 India
 
-<!--
-**NabhyaNavale/NabhyaNavale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+🔐 Passionate about Automation and Efficiency 💻 Interested in learning new technologies
+📚 Exploring digital tools and programming
 
-Here are some ideas to get you started:
+## 🎯 My Goal
+To build strong skills in AI, Cloud Computing and become a professional in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Learning)
+💻 Programming Basics
+
+🌐 Digital Literacy & Online Safety
+
+## 📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/nabhya-navale-77a720384/
