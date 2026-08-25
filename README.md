@@ -10,8 +10,10 @@
 To build strong skills in AI, Cloud Computing and become a professional in the tech industry.
 
 ## 🛠️ Skills (Learning)
-💻 Programming Basics
-
+💻 Web Dev Programming Basics
+Skilled in Python, Java, Html/Css
+💻 DBMS Programming Basics
+MongoDB, MySQL, C++
 🌐 Digital Literacy & Online Safety
 
 ## 📫 Connect With Me
